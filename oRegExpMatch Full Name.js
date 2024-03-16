@@ -15,5 +15,5 @@ function matchFullName(input) {
 
     console.log(finalArr.join(` `));
 }
-matchFullName("Ivan Ivanov, Miroslav Tzarev, ivan Ivanov, IVan Ivanov, Test Testov, Ivan	Ivanov");
+matchFullName("Ivan Ivanov, ivan Ivanov, DraganDraganov, IVan Ivanov, Test Testov, Ivan	Ivanov");
 //matchFullName();
